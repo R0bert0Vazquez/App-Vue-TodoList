@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "titulo": "Make a todo list app",
+      "completada": true
+    },
+    {
+      "id": 2,
+      "titulo": "Predict the weather",
+      "completada": false
+    },
+    {
+      "id": 3,
+      "titulo": "Read some comics",
+      "completada": false
+    },
+    {
+      "id": 4,
+      "titulo": "Let's get cooking",
+      "completada": false
+    },
+    {
+      "id": 5,
+      "titulo": "Pump some iron",
+      "completada": false
+    },
+    {
+      "id": 6,
+      "titulo": "Track my expenses",
+      "completada": false
+    },
+    {
+      "id": 7,
+      "titulo": "Organise a game night",
+      "completada": false
+    },
+    {
+      "id": 8,
+      "titulo": "Learn a new language",
+      "completada": false
+    },
+    {
+      "id": 9,
+      "titulo": "Publish my work",
+      "completada": false
+    },
+    {
+      "id": 10,
+      "titulo": "Estudiar Framework frontend en vacaciones, para el examen el primer dia de clases",
+      "completada": false
+    }
+  ]
+}
